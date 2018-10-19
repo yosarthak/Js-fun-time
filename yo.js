@@ -8,5 +8,3 @@ appnew.get('/csi/', function (req, res){
 appnew.listen(6969, function() {
 	console.log('Hello Namit Ultra Chutiya CSI, running on port 6969 I believe');
 });
-
-//Commit for git
